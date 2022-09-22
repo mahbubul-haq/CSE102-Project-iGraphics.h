@@ -1,5 +1,5 @@
 ## CSE 102 Term Project - DX BALL
-<hr/>
+***
 ### CSE 102 - Structured programming language sessional project
 #### Contributors
 1. Md. Mahbubul Haque
