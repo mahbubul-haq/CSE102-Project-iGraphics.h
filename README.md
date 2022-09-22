@@ -8,7 +8,7 @@
 
 #### Supervisor
 Ch. Md. Rakin Haider\
-Assitant Professor\
+Assistant Professor\
 Department of Computer Science and Engineering (CSE)\
 Bangladesh University of Engineering and Technology(BUET)
 ***
