@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1636199059 source:f:\mega\level1term1\cse\dx_ball\untitled2.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1547618806 f:\mega\level1term1\cse\dx_ball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1663858624 source:f:\mega\dx_ball\untitled2.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1547618806 f:\mega\dx_ball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+

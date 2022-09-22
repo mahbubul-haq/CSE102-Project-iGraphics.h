@@ -1,0 +1,9 @@
+Start play button to play.
+Then select resume or any level to play. You are in the game.
+Initially you have 2 lifes. Scores are on the left top corner of the screen.
+Do not let the ball fall down. Use the red stick to save the ball from falling.
+To move the stick you can use either left-right key in the keyboard or
+you can use mouse but left button of mouse should be pressed all the time.
+To pause the game press 'p', to resume press 'r', to quit press 'q'
+while quitting you can save the current state of the game.
+After one life is lost you need to press 'r' to resume. Enjoy!
