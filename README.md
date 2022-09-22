@@ -1,4 +1,5 @@
 ## CSE 102 Term Project - DX BALL
+<hr/>
 ### CSE 102 - Structured programming language sessional project
 #### Contributors
 1. Md. Mahbubul Haque
@@ -9,8 +10,7 @@ Ch. Md. Rakin Haider\
 Assitant Professor\
 Department of Computer Science and Engineering (CSE)\
 Bangladesh University of Engineering and Technology(BUET)
-
-
+***
 #### How to run the program
 
 ##### Codeblocks version 13.12.
