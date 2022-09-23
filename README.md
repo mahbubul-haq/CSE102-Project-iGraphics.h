@@ -1,7 +1,7 @@
 ## CSE 102 Term Project - DX BALL
 
 ### CSE 102 - Structured programming language sessional project
-##### Single player multi level game
+##### DX BALL is a single player multi level game developed with C programming and iGraphics Library
 ***
 #### Contributors
 1. Md. Mahbubul Haque
