@@ -1,6 +1,7 @@
 ## CSE 102 Term Project - DX BALL
 
 ### CSE 102 - Structured programming language sessional project
+##### Single player multi level game
 ***
 #### Contributors
 1. Md. Mahbubul Haque
@@ -20,5 +21,5 @@ Bangladesh University of Engineering and Technology(BUET)
 It is better to have the mentioned codeblocks version, otherwise, setup process would not be same as guided.
 * Open DX_BALL project file in codeblocks.
 * Run Untitled2.cpp file
-* Read instructions of how to play.
+* Read instructions how to play.
 * Play and Enjoy!
