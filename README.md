@@ -2,6 +2,7 @@
 
 ### CSE 102 - Structured programming language sessional project
 ##### DX BALL is a single player multi level game developed with C programming and iGraphics Library
+<p align="center"> <img src="https://github.com/mahbubul-haq/DX-BALL-Game/blob/master/dx_ball1.PNG" </p>
 ***
 #### Contributors
 1. Md. Mahbubul Haque
