@@ -15,7 +15,7 @@ Assistant Professor\
 Department of Computer Science and Engineering (CSE)\
 Bangladesh University of Engineering and Technology(BUET)
 ***
-#### How to run the program
+#### How to play the game
 
 ##### Codeblocks version 13.12.
 * Clone the repository
